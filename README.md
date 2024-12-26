@@ -4,7 +4,7 @@
 
 - 💬 Ask me about __Data Analyst/Data Engineer, ETL, Snowflake, Azure services__ 
 - Currently working @ AT&T, USA
-- Proficient in __SQL, Python, pandas, NumPy__
+- Proficient in __SQL, Python, pandas, NumPy,__
 - Proficient at Azure Services (__ADF, Databricks, Azure data lake Gen2, blob storage, Azure Synapse, Power BI__)
 - Certified __"Snowflake SnowPro Core practitioner"__.
 - Certified __"Databricks Lakehouse Fundamentals"__.
